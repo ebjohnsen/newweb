@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Sirius"
-subtitle = "Center for Research-driven Innovation"
+subtitle = "Center for Research-driven Innovation 2015-2023"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
