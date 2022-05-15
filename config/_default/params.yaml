@@ -32,18 +32,18 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Einar Broch Johnsen. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -91,9 +91,9 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: google
     api_key: ''
-    zoom: 15
+    zoom: 16
 
 # Extensions
 

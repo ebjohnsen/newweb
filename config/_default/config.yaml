@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Einar Broch Johnsen # Website name
+baseURL: 'https://ebjohnsen.org/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -30,7 +30,7 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+paginate: 20
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
