@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2019 Formalise"
+title: "FormaliSE 2019"
 subtitle: ""
 summary: ""
 authors: []
