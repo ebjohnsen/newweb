@@ -64,9 +64,5 @@ slides : ""
 projects: []
 ---
 
-
-**Abstract.** <br>
-Digital twins are emerging as an engineering paradigm to build software centred around models of physical objects or processes. In engineering, the use of digital twins profoundly changes the entire product lifecycle management, from design to manufacturing and operations, because the digital twins adapt in response to the evolution of their physical counterpart. The purpose of the digital twin is to understand, predict and act on the behaviour of these physical systems. Digital twins can evolve continuously based on real-time streams of observations from the physical system combined with artefacts developed during the design stage. In this talk, we move from the engineering of digital twins to the science of digital twins. We consider basic concepts of digital twins, present some examples of how we can work with them in research, and discuss emerging research challenges at the intersection of formal methods and software engineering.
-
 **Bio.** <br> 
 Einar Broch Johnsen is a professor and the head of the Formal Methods group at the Department of Informatics, University of Oslo. His research interests include programming models and methodology; program specification and modeling; and the theory and application of formal methods. He is active in formal methods for distributed and concurrent systems, including object-oriented and concurrent languages, manycore computing, cloud computing, and digital twins. He is one of the main developers of the ABS modeling language.
