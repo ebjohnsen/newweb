@@ -1,29 +1,22 @@
 ---
-title: "Digital Twins: An Emerging Paradigm for Model-Centric
-Engineering (FormaliSE 2022)"
+title: "Digital Twins: An Emerging Paradigm for Model-Centric Engineering"
 
-event: Intl. Conf. on Formal Methods in Software Engineering (FormaliSE 2022)
-event_url: https://www.formalise.org/
+event: Intl. Workshop on Petri Nets and Software Engineering (PNSE 2022)
+event_url: https://petrinets2022.github.io/pnse/
 
-location: Pittsburgh / Virtual
-# address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
+location:  Western Norway University of Applied Science, Bergen
 
-summary: Keynote, Intl. Conf. on Formal Methods in Software Engineering (FormaliSE 2022) 
+summary: Keynote, Intl. Workshop on Petri Nets and Software Engineering (PNSE 2022)
 abstract: Digital twins are emerging as an engineering paradigm to build software centred around models of physical objects or processes. In engineering, the use of digital twins profoundly changes the entire product lifecycle management, from design to manufacturing and operations, because the digital twins adapt in response to the evolution of their physical counterpart. The purpose of the digital twin is to understand, predict and act on the behaviour of these physical systems. Digital twins can evolve continuously based on real-time streams of observations from the physical system combined with artefacts developed during the design stage. In this talk, we move from the engineering of digital twins to the science of digital twins. We consider basic concepts of digital twins, present some examples of how we can work with them in research, and discuss emerging research challenges at the intersection of formal methods and software engineering.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-19T15:00:00Z'
-date_end: '2022-05-19T16:00:00Z' 
+date: '2022-06-20T09:00:00Z'
+# date_end: '2022-05-19T16:00:00Z' 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-05-31T00:00:00Z'
 
 authors: []
 tags: [Talks, Keynotes]
@@ -37,11 +30,11 @@ featured: false
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/FormaliSEconf
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/FormaliSEconf
 url_code: ''
 url_pdf: ''
 url_slides: ''
