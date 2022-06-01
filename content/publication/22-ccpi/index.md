@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Digital Twins for Autonomic Cloud Application Management"
-date: 2022-03-20T21:07:45+02:00
+date: 2022-04-13T21:07:45+02:00
 doi: "https://doi.org/10.1007/978-3-030-99619-2_14"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-03-20T21:07:45+02:00
+publishDate: 2022-06-01T21:07:45+02:00
 
 authors:
   - Geir Horn
@@ -42,7 +42,7 @@ time variate operational parameters for the optimization process."
 # Summary. An optional shortened abstract.
 summary: "Proc. CCPI 2022. LNNS 451. © Springer 2022."
 
-tags: []
+tags: ["Digital twins"]
 categories: []
 featured: false
 

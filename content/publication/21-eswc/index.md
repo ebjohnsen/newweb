@@ -31,7 +31,7 @@ abstract: "We propose a novel integration of programming languages with semantic
 # Summary. An optional shortened abstract.
 summary: "Proc. ESWC 2021. LNCS 12731, Springer 2021."
 
-tags: []
+tags: [Smol]
 categories: []
 featured: false
 
