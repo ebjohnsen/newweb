@@ -107,17 +107,18 @@ ICT](http://www.sintef.no/en/information-and-communication-technology-ict/#/)
 Council](https://www.uio.no/dscience/english/people/dscience-council/)
 of the [dScience](https://www.uio.no/dscience/english/) centre at UiO,
 board member of [Formal Methods Europe](http://www.fmeurope.org),
-editorial board member of the [Journal of Logical and Algebraic
-Methods in
+editorial board member of the journals [Formal Aspects of
+Computing](https://dl.acm.org/journal/fac/) and [Journal of Logical
+and Algebraic Methods in
 Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming),
 and steering committee member of the conference series on Fundamental
 Approaches to Software Engineering (FASE), Integrated Formal Methods
-(iFM) and on Formal Techniques for Networked and Distributed Systems
+(iFM) and Formal Techniques for Networked and Distributed Systems
 (FORTE). He was general chair of [FM 2015](http://fm2015.ifi.uio.no/)
-and DisCoTec 2008, and PC chair of [FASE
-2022](https://etaps.org/2022/fase), [SEFM
-2018](https://www.isf.cs.tu-bs.de/cms/events/sefm2018/), [TAP
-2017](https://www.informatik.uni-marburg.de/staf2017/), ESOCC 2016,
-iFM 2013 and FMOODS 2007.
+and DisCoTec 2008, and PC chair of 
+[FASE 2022](https://etaps.org/2022/fase), 
+[SEFM 2018](https://www.isf.cs.tu-bs.de/cms/events/sefm2018/), 
+[TAP 2017](https://www.informatik.uni-marburg.de/staf2017/), 
+ESOCC 2016, iFM 2013 and FMOODS 2007.
 
 
