@@ -2,7 +2,7 @@
 title: "Digital Twins and HPC"
 
 event: Data@UiO 
-event_url: https://www.usit.uio.no/om/arrangementer/data/index.html
+event_url: https://www.usit.uio.no/english/about/events/data/index.html
 
 location: Store Aud, Kristen Nygaards Hus / Virtual
 # address:
